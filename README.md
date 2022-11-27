@@ -1,1 +1,1 @@
-# Netflix_landing_page: https://osmmacfides.github.io/Netflix_landing_page/
+# Netflix_landing_page:  https://osmmacfides.github.io/netosmmac/
